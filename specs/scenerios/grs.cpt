@@ -1,0 +1,10 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# E-posta texti girilir
+* "//*[@text='E - posta Adresi']" i bul ve "oruc.mehmet@outlook.com.tr" e posta gir
+* "//*[@text='E - posta Adresi']" i bul ve <text> e posta gir
+
+# Password girilir
+* "//*[@text='Parola']" i bul ve "9999Oruc" e posta gir
+

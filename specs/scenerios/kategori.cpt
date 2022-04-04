@@ -1,0 +1,11 @@
+"Created by testinium on 2.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kadın butonuna tıkla
+* "3" saniye kadar bekle
+* Xpath "//*[@text='Kadın']" li elementi bul ve tıkla
+* "3" saniye kadar bekle
+
+# Pantalon butonuna tıkla
+* "3" saniye kadar bekle
+* Xpath "//*[@text='Pantolon']" li elementi bul ve tıkla

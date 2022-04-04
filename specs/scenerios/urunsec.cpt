@@ -1,0 +1,5 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Beden sec
+* Xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerSizeList']/n" li elementi bul ve tıkla
